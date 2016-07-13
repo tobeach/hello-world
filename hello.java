@@ -1,3 +1,4 @@
 class Hello {
-   String sayHello
+   String sayHello;
+   String hiThere;
 }
