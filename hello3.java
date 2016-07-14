@@ -1,0 +1,3 @@
+class bonjour {
+String hi;
+}
